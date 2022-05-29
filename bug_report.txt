@@ -1,1 +1,11 @@
-
+Заголовок (Summary):Where is button?
+Проект (Project):161
+Компонент приложения (Component):Start desktop
+Номер версии (Version):001.0
+Критичность (Severity):Critical
+Приоритет (Priority):High
+Статус (Status):S1
+Автор (Author):Maksim Zayats
+Назначен на (Assigned To):Anastasiay Zayats
+Описание (Description):Not here button 'Sign-in'
+Прикрепленный файл (Attachment):null
